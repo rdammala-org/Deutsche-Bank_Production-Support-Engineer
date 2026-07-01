@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Production Support Engineer (AVP) opportunities.
 
-**Live:** https://rdammala.github.io/Deutsche-Bank_Production-Support-Engineer/
+**Live:** https://rdammala-org.github.io/Deutsche-Bank_Production-Support-Engineer/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
